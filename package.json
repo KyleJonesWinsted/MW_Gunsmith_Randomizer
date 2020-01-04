@@ -1,0 +1,11 @@
+{
+  "name": "gunsmith-backend",
+  "version": "1.0.0",
+  "description": "restful api for react gunsmith randomizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
