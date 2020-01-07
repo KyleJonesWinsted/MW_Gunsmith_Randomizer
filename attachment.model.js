@@ -18,6 +18,8 @@ let Attachment = new Schema({
     slot: {
         type: String
     }
+}, {
+    collection: 'attachments'
 })
 
 module.exports = mongoose.model('Attachment', Attachment)

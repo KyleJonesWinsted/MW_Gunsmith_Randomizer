@@ -14,6 +14,8 @@ let Gun = new Schema({
     category: {
         type: String
     }
+}, {
+    collection: 'guns'
 })
 
 module.exports = mongoose.model('Gun', Gun)
