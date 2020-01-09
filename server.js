@@ -43,11 +43,9 @@ router.route('/attachments/:gunId/:gunRank').get((req, res) => {
         }
         var returnedAttachments = []
         const numberOfAttachmentsToReturn = Math.ceil(Math.random() * 5)
-        console.log('returning: ' + numberOfAttachmentsToReturn)
         for (let i = 0; i < numberOfAttachmentsToReturn; i++) {
             const randomIndex = Math.round(Math.random() * (attachmentsCount - 1))
             const randomAttachment = attachments[randomIndex]
-            console.log('index: ' + randomIndex)
             if (checkAttachmentValidity(returnedAttachments, randomAttachment)) {
                 returnedAttachments.push(randomAttachment)
             }
