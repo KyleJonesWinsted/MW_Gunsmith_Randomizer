@@ -33,6 +33,39 @@ router.route('/gun/:id').get((req, res) => {
     })
 })
 
+router.route('/attachments/:gunId/:gunRank').get((req, res) => {
+    Attachment.find({gunId: req.params.gunId, rankUnlocked: {$lt: req.params.gunRank}}, (err, attachments) => {
+        const attachmentsCount = attachments.length
+        if (!attachments || attachmentsCount === 0) {
+            console.log('Error: ' + err)
+            res.status(404).send('No matching attachments found\nError: ' + err)
+            return
+        }
+        var returnedAttachments = []
+        const numberOfAttachmentsToReturn = Math.ceil(Math.random() * 5)
+        console.log('returning: ' + numberOfAttachmentsToReturn)
+        for (let i = 0; i < numberOfAttachmentsToReturn; i++) {
+            const randomIndex = Math.round(Math.random() * (attachmentsCount - 1))
+            const randomAttachment = attachments[randomIndex]
+            console.log('index: ' + randomIndex)
+            if (checkAttachmentValidity(returnedAttachments, randomAttachment)) {
+                returnedAttachments.push(randomAttachment)
+            }
+        }
+        res.json(returnedAttachments)
+    })
+})
+
+function checkAttachmentValidity(attachmentArray, newAttachment) {
+    for (let j = 0; j < attachmentArray.length; j++) {
+        const attachment = attachmentArray[j]
+        if (newAttachment.slot === attachment.slot || 
+            newAttachment._id === attachment._id) {
+            return false
+        }
+    }
+    return true
+}
 
 
 app.listen(PORT, () => {
