@@ -20,7 +20,39 @@ connection.once('open', function() {
 
 app.use(cors())
 app.use(bodyParser.json())
+app.use(bodyParser.urlencoded({extended: false}))
 app.use(router)
+
+// Remove before production
+router.route('/add/gun').post((req, res) => {
+    const newGun = new Gun(req.body)
+    console.log(req.body)
+    newGun.save()
+        .then(gun => {
+            res.status(200).json({
+                'newGun': newGun
+            })
+        })
+        .catch(error => {
+            console.log(error)
+            res.status(500).send('Error saving new gun. ' + error)
+        })
+})
+
+//Remove before production
+router.route('/add/attachment').post((req, res) => {
+    const newAttachment = new Attachment(req.body)
+    newAttachment.save()
+        .then(attachment => {
+            res.status(200).json({
+                'newAttachment': newAttachment
+            })
+        })
+        .catch(error => {
+            console.log(error)
+            res.status(500).send('Error saving new attachment. ' + error)
+        })
+})
 
 router.route('/gun/:id').get((req, res) => {
     Gun.findById(req.params.id, (err, gun) => {
