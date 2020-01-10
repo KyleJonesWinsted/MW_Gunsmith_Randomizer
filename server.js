@@ -33,8 +33,22 @@ router.route('/gun/:id').get((req, res) => {
     })
 })
 
+//Get random gun unlocked for a given player rank
+router.route('/gun/random/:rank').get((req, res) => {
+    Gun.find({rankUnlocked: {$lte: req.params.rank}}, (err, guns) => {
+        if (!guns) {
+            console.log(err)
+            res.status(404).send('Unable to get guns. Error: ' + err)
+        } else {
+            const randomIndex = Math.round(Math.random() * (guns.length - 1))
+            res.json(guns[randomIndex])
+        }
+    })
+})
+
+// Get between 1 and 5 random attachments for a gun of a given rank
 router.route('/attachments/:gunId/:gunRank').get((req, res) => {
-    Attachment.find({gunId: req.params.gunId, rankUnlocked: {$lt: req.params.gunRank}}, (err, attachments) => {
+    Attachment.find({gunId: req.params.gunId, rankUnlocked: {$lte: req.params.gunRank}}, (err, attachments) => {
         const attachmentsCount = attachments.length
         if (!attachments || attachmentsCount === 0) {
             console.log('Error: ' + err)
@@ -51,6 +65,17 @@ router.route('/attachments/:gunId/:gunRank').get((req, res) => {
             }
         }
         res.json(returnedAttachments)
+    })
+})
+
+router.route('/guns/:category').get((req, res) => {
+    Gun.find({category: req.params.category}, (err, guns) => {
+        if (!guns) {
+            console.log(err)
+            res.status(404).send('No guns found. Error:' + err)
+        } else {
+            res.json(guns)
+        }
     })
 })
 
