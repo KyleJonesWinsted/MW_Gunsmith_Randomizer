@@ -42,6 +42,7 @@ router.route('/add/gun').post((req, res) => {
 //Remove before production
 router.route('/add/attachment').post((req, res) => {
     const newAttachment = new Attachment(req.body)
+    console.log(newAttachment.name)
     newAttachment.save()
         .then(attachment => {
             res.status(200).json({
