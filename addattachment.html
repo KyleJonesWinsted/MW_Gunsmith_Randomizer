@@ -8,7 +8,20 @@
 </head>
 <body>
     <form action="http://127.0.0.1:4000/add/attachment" method="POST">
-        
+        <h1>Add Attachment</h1>
+        <h3>Current gun: M13</h3>
+        <label for="name">Name: </label>
+        <input type="text" name="name">
+        <br>
+        <input type="text" name="gunId" value="5e19ff18d2399dc67adc7ea9" hidden>
+        <label for="rankUnlocked">Rank Unlocked: </label>
+        <input type="text" name="rankUnlocked">
+        <br>
+        <input type="text" name="imgUrl" id="imgUrl" value="" hidden>
+        <label for="slot">Slot: </label>
+        <input type="text" name="slot" id="slot" value="Muzzle">
+        <br>
+        <input type="submit" name="submit" id="submit">
     </form>
 </body>
 </html>
