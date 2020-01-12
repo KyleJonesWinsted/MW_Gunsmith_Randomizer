@@ -136,3 +136,329 @@
 {"_id":{"$oid":"5e1a1bf823ac71ceb0965cb9"},"name":"Fast Melee","gunId":{"$oid":"5e19ff2cd2399dc67adc7eaa"},"rankUnlocked":50,"imgUrl":"","slot":"Perk","__v":0}
 {"_id":{"$oid":"5e1a1c0523ac71ceb0965cba"},"name":"Frangible - Disabling","gunId":{"$oid":"5e19ff2cd2399dc67adc7eaa"},"rankUnlocked":57,"imgUrl":"","slot":"Perk","__v":0}
 {"_id":{"$oid":"5e1a1c1523ac71ceb0965cbb"},"name":"Presence of Mind","gunId":{"$oid":"5e19ff2cd2399dc67adc7eaa"},"rankUnlocked":71,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a766a8f28b16119481250"},"name":"Flash Guard","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":3,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a76a50d060e611e993a28"},"name":"Muzzle Brake","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":8,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a76b50d060e611e993a29"},"name":"Tactical Suppressor","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":14,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a76c00d060e611e993a2a"},"name":"Compensator","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":37,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a76d10d060e611e993a2b"},"name":"Lightweight Suppressor","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":45,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a76e50d060e611e993a2c"},"name":"Monolithic Suppressor","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":62,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a770a0d060e611e993a2d"},"name":"FR 15.9 Commando","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":100,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a77140d060e611e993a2e"},"name":"FR 24.4 Sniper","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":100,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a77200d060e611e993a2f"},"name":"TAC FORGE Ultralight","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":100,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a773d0d060e611e993a30"},"name":"1mW Laser","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":100,"imgUrl":"","slot":"Laser","__v":0}
+{"_id":{"$oid":"5e1a77440d060e611e993a31"},"name":"5mW Laser","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":100,"imgUrl":"","slot":"Laser","__v":0}
+{"_id":{"$oid":"5e1a774a0d060e611e993a32"},"name":"Tac Laser","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":100,"imgUrl":"","slot":"Laser","__v":0}
+{"_id":{"$oid":"5e1a77730d060e611e993a33"},"name":"Operator Reflex Sight","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":2,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a77820d060e611e993a34"},"name":"Corp Combat Holo Sight","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":4,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a778f0d060e611e993a35"},"name":"Aim-Op Reflex Sight","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":6,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a77980d060e611e993a36"},"name":"Scout Combat Optic","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":10,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a77b10d060e611e993a37"},"name":"APX5 Holographic Sight","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":16,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a77bc0d060e611e993a38"},"name":"Integral Hybrid","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":18,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a77dd0d060e611e993a39"},"name":"Solozero Optics Mini Reflex","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":22,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a78160d060e611e993a3a"},"name":"VLK 3.0x Optic","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":25,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a782b0d060e611e993a3b"},"name":"4.0x Flip Hybrid","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":28,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a78380d060e611e993a3c"},"name":"Viper Reflex Sight","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":30,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a78420d060e611e993a3d"},"name":"PBX Holo 7 Sight","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":33,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a784f0d060e611e993a3e"},"name":"Solozero NVG Enhanced","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":36,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a78660d060e611e993a3f"},"name":"Sniper Scope","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":40,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a78bb0d060e611e993a40"},"name":"Cronen LP945 Mini Reflex","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":43,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a78cd0d060e611e993a41"},"name":"Monocle Reflex Sight","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":47,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a78da0d060e611e993a42"},"name":"Cronen C480 Pro Optic","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":50,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a78e60d060e611e993a43"},"name":"G.I. Mini Reflex","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":52,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a78f90d060e611e993a44"},"name":"Variable Zoom Scope","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":55,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a79050d060e611e993a45"},"name":"Thermal Hybrid","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":57,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a79130d060e611e993a46"},"name":"Merc Thermal Optic","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":61,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a791b0d060e611e993a47"},"name":"Canted Hybrid","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":63,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a79360d060e611e993a48"},"name":"FR Ultralight Hollow","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":100,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a79420d060e611e993a49"},"name":"FORGE TAC Ballast Pack","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":100,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a794b0d060e611e993a4a"},"name":"FFS Tac-Wrap","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":100,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a796f0d060e611e993a4b"},"name":"Commando Foregrip","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":5,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a797c0d060e611e993a4c"},"name":"M203 40mm Smokescreen","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":9,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a79870d060e611e993a4d"},"name":"M203 40mm Incendiary","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":15,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a799b0d060e611e993a4e"},"name":"Merc Foregrip","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":19,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a79ab0d060e611e993a4f"},"name":"M203 40mm High-explosive","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":23,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a79b60d060e611e993a50"},"name":"M203 40mm Concussive","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":27,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a79c10d060e611e993a51"},"name":"Tactical Foregrip","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":31,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a79c70d060e611e993a52"},"name":"Bipod","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":41,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a79cf0d060e611e993a53"},"name":"M203 40mm Flash","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":44,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a79e10d060e611e993a54"},"name":"12 Gauge Deputy","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":49,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a79ee0d060e611e993a55"},"name":"Operator Foregrip","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":56,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a79f70d060e611e993a56"},"name":"M203 40mm Recon","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":60,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a7a010d060e611e993a57"},"name":"Ranger Foregrip","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":64,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a7a150d060e611e993a58"},"name":"50 Round Mags","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":100,"imgUrl":"","slot":"Ammunition","__v":0}
+{"_id":{"$oid":"5e1a7a1e0d060e611e993a59"},"name":"60 Round Mags","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":100,"imgUrl":"","slot":"Ammunition","__v":0}
+{"_id":{"$oid":"5e1a7a370d060e611e993a5a"},"name":"Stippled Grip Tape","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":11,"imgUrl":"","slot":"Rear Grip","__v":0}
+{"_id":{"$oid":"5e1a7a410d060e611e993a5b"},"name":"Granulated Grip Tape","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":34,"imgUrl":"","slot":"Rear Grip","__v":0}
+{"_id":{"$oid":"5e1a7a4c0d060e611e993a5c"},"name":"Rubberized Grip Tape","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":51,"imgUrl":"","slot":"Rear Grip","__v":0}
+{"_id":{"$oid":"5e1a7a560d060e611e993a5d"},"name":"Recon","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":6,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7a600d060e611e993a5e"},"name":"Heavy Hitter","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":13,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7a6a0d060e611e993a5f"},"name":"Frangible - Wounding","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":17,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7a790d060e611e993a60"},"name":"Fully Loaded","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":24,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7a800d060e611e993a61"},"name":"Fast Melee","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":29,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7a8a0d060e611e993a62"},"name":"Mo' Money","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":32,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7a990d060e611e993a63"},"name":"FMJ","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":38,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7aab0d060e611e993a64"},"name":"Sleight of Hand","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":48,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7ab90d060e611e993a65"},"name":"Frangible - Disabling","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":53,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7ac10d060e611e993a66"},"name":"Presence of Mind","gunId":{"$oid":"5e19ff4ad2399dc67adc7eab"},"rankUnlocked":65,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7afe0d060e611e993a67"},"name":"Flash Guard","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":5,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a7b0b0d060e611e993a68"},"name":"Muzzle Brake","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":10,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a7b190d060e611e993a69"},"name":"Tactical Suppressor","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":15,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a7b200d060e611e993a6a"},"name":"Compensator","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":32,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a7b300d060e611e993a6b"},"name":"Lightweight Suppressor ","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":46,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a7b4f0d060e611e993a6c"},"name":"Bayonet","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":54,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a7b5c0d060e611e993a6d"},"name":"Monolithic Suppressor","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":61,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a7b9e0d060e611e993a6e"},"name":"Spetsnaz Elite","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":100,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a7ba60d060e611e993a6f"},"name":"23.0 RPK Barrel","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":100,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a7bb60d060e611e993a70"},"name":"8.1 Compact Barrel","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":100,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a7bc20d060e611e993a71"},"name":"23.0 Romanian","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":100,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a7bfd0d060e611e993a72"},"name":"1mW Laser","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":1,"imgUrl":"","slot":"Laser","__v":0}
+{"_id":{"$oid":"5e1a7c080d060e611e993a73"},"name":"5mW Laser","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":1,"imgUrl":"","slot":"Laser","__v":0}
+{"_id":{"$oid":"5e1a7c100d060e611e993a74"},"name":"Tac Laser","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":66,"imgUrl":"","slot":"Laser","__v":0}
+{"_id":{"$oid":"5e1a7c210d060e611e993a75"},"name":"Operator Reflex Sight","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":2,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7c2e0d060e611e993a76"},"name":"Corp Combat Holo Sight","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":4,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7c380d060e611e993a77"},"name":"Aim-Op Reflex Sight","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":8,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7c400d060e611e993a78"},"name":"Scout Combat Optic","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":11,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7c4c0d060e611e993a79"},"name":"APX5 Holographic Sight","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":14,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7c580d060e611e993a7a"},"name":"Solozero Optics Mini Reflex","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":18,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7c650d060e611e993a7b"},"name":"Integral Hybrid","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":22,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7c700d060e611e993a7c"},"name":"VLK 3.0x Optic","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":25,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7c760d060e611e993a7d"},"name":"Sniper Scope","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":29,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7c7e0d060e611e993a7e"},"name":"Viper Reflex Sight","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":33,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7c8c0d060e611e993a7f"},"name":"G.I. Mini Reflex","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":39,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7c9a0d060e611e993a80"},"name":"Solozero NVG Enhanced","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":41,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7ca50d060e611e993a81"},"name":"Monocle Reflex Sight","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":45,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7cb00d060e611e993a82"},"name":"Cronen LP945 Mini Reflex","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":48,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7cbb0d060e611e993a83"},"name":"Canted Hybrid","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":52,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7cd50d060e611e993a84"},"name":"Cronen C480 Pro Optic","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":58,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7cef0d060e611e993a85"},"name":"Merc Thermal Optic","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":60,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7cf90d060e611e993a86"},"name":"Variable Zoom Scope","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":64,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7d050d060e611e993a87"},"name":"Thermal Hybrid","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":67,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a7d180d060e611e993a88"},"name":"Field LMG Stock","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":100,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a7d1f0d060e611e993a89"},"name":"Skeleton Stock","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":100,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a7d220d060e611e993a8a"},"name":"No Stock","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":100,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a7d2e0d060e611e993a8b"},"name":"FFS Close Quarters Stock","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":100,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a7d420d060e611e993a8c"},"name":"FORGE TAC Ultralight","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":62,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a7d6b0d060e611e993a8d"},"name":"Bipod","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":6,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a7d740d060e611e993a8e"},"name":"Commando Foregrip","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":12,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a7d830d060e611e993a8f"},"name":"GP25 40mm High-explosive","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":16,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a7d900d060e611e993a90"},"name":"Merc Foregrip","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":21,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a7da60d060e611e993a91"},"name":"GP25 40mm Smokescreen","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":24,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a7db30d060e611e993a92"},"name":"GP25 40mm Incendiary","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":34,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a7dc40d060e611e993a93"},"name":"Tactical Foregrip","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":37,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a7dce0d060e611e993a94"},"name":"GP25 40mm Concussive","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":40,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a7ddb0d060e611e993a95"},"name":"Operator Foregrip","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":43,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a7de40d060e611e993a96"},"name":"Ranger Foregrip","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":40,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a7dec0d060e611e993a97"},"name":"GP25 40mm Flash","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":43,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a7df50d060e611e993a98"},"name":"12 Gauge Deputy","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":49,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a7e060d060e611e993a99"},"name":"GP25 40mm Recon","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":55,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a7e1a0d060e611e993a9a"},"name":"40 Round Mags","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":100,"imgUrl":"","slot":"Ammunition","__v":0}
+{"_id":{"$oid":"5e1a7e2e0d060e611e993a9b"},"name":"5.45x39mm 30-Round Mags","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":100,"imgUrl":"","slot":"Ammunition","__v":0}
+{"_id":{"$oid":"5e1a7e370d060e611e993a9c"},"name":"75 Round Drum Mags","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":100,"imgUrl":"","slot":"Ammunition","__v":0}
+{"_id":{"$oid":"5e1a7e460d060e611e993a9d"},"name":"Granulated Grip Tape","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":100,"imgUrl":"","slot":"Rear Grip","__v":0}
+{"_id":{"$oid":"5e1a7e4d0d060e611e993a9e"},"name":"Stippled Grip Tape","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":100,"imgUrl":"","slot":"Rear Grip","__v":0}
+{"_id":{"$oid":"5e1a7e550d060e611e993a9f"},"name":"Rubberized Grip Tape","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":100,"imgUrl":"","slot":"Rear Grip","__v":0}
+{"_id":{"$oid":"5e1a7e680d060e611e993aa0"},"name":"Fast Melee","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":3,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7e730d060e611e993aa1"},"name":"Fully Loaded","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":7,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7e7b0d060e611e993aa2"},"name":"Frangible - Wounding","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":20,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7e830d060e611e993aa3"},"name":"Sleight of Hand","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":26,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7e8a0d060e611e993aa4"},"name":"Recon","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":30,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7e900d060e611e993aa5"},"name":"Mo' Money","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":35,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7e980d060e611e993aa6"},"name":"Frangible - Disabling","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":38,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7ea10d060e611e993aa7"},"name":"Heavy Hitter","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":42,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7ea60d060e611e993aa8"},"name":"FMJ","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":57,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a7eaf0d060e611e993aa9"},"name":"Presence of Mind","gunId":{"$oid":"5e19ff5cd2399dc67adc7eac"},"rankUnlocked":65,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a94cfdddde762240d1e74"},"name":"Muzzle Brake","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":3,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a94e5dddde762240d1e75"},"name":"Flash Guard","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":6,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a94eddddde762240d1e76"},"name":"Tactical Suppressor","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":11,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a94f7dddde762240d1e77"},"name":"Lightweight Suppressor","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":23,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a9501dddde762240d1e78"},"name":"Compensator","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":35,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a950edddde762240d1e79"},"name":"Monolithic Suppressor","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":65,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a9521dddde762240d1e7a"},"name":"18.0 Ultralight","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":13,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a952bdddde762240d1e7b"},"name":"XRK Marksman","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":43,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a953edddde762240d1e7c"},"name":"13.0 OSW Para","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":58,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a9579dddde762240d1e7d"},"name":"5mW Laser","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":20,"imgUrl":"","slot":"Laser","__v":0}
+{"_id":{"$oid":"5e1a9582dddde762240d1e7e"},"name":"1mW Laser","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":27,"imgUrl":"","slot":"Laser","__v":0}
+{"_id":{"$oid":"5e1a958adddde762240d1e7f"},"name":"Tac Laser","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":60,"imgUrl":"","slot":"Laser","__v":0}
+{"_id":{"$oid":"5e1a959cdddde762240d1e80"},"name":"G.I. Mini Reflex","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":2,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a95a9dddde762240d1e81"},"name":"Corp Combat Holo Sight","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":5,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a95b2dddde762240d1e82"},"name":"Aim-Op Reflex Sight","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":8,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a95badddde762240d1e83"},"name":"Scout Combat Optic","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":10,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a95c6dddde762240d1e84"},"name":"APX5 Holographic Sight","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":15,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a95d2dddde762240d1e85"},"name":"4.0x Flip Hybrid","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":19,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a95dcdddde762240d1e86"},"name":"Solozero Optics Mini Reflex","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":24,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a95e7dddde762240d1e87"},"name":"VLK 3.0x Optic","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":26,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a95fbdddde762240d1e88"},"name":"Operator Reflex Sight","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":29,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9603dddde762240d1e89"},"name":"Sniper Scope","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":32,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a960ddddde762240d1e8a"},"name":"Solozero NVG Enhanced","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":34,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a962adddde762240d1e8b"},"name":"Integral Hybrid","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":37,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9633dddde762240d1e8c"},"name":"Viper Reflex Sight","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":41,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a963cdddde762240d1e8d"},"name":"PBX Holo 7 Sight","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":44,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9647dddde762240d1e8e"},"name":"Monocle Reflex Sight","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":47,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9652dddde762240d1e8f"},"name":"Canted Hybrid","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":49,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a965bdddde762240d1e90"},"name":"Variable Zoom Scope","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":51,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9664dddde762240d1e91"},"name":"Cronen C480 Pro Optic","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":55,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9672dddde762240d1e92"},"name":"Cronen LP945 Mini Reflex","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":59,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a967cdddde762240d1e93"},"name":"Merc Thermal Optic","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":62,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9684dddde762240d1e94"},"name":"Thermal Hybrid","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":66,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a96a1dddde762240d1e95"},"name":"Factory 18 Aluminum Stock","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":100,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a96a6dddde762240d1e96"},"name":"No Stock","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":100,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a96b1dddde762240d1e97"},"name":"FFS Close Quarters Stock","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":100,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a96bbdddde762240d1e98"},"name":"FORGE TAC Stalker","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":100,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a96cfdddde762240d1e99"},"name":"Commando Foregrip","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":4,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a96d9dddde762240d1e9a"},"name":"Merc Foregrip","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":9,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a96e6dddde762240d1e9b"},"name":"12 Gauge Deputy","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":12,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a96ebdddde762240d1e9c"},"name":"Bipod","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":17,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a96f3dddde762240d1e9d"},"name":"M203 40mm Recon","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":21,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a96fddddde762240d1e9e"},"name":"M203 40mm High-explosive","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":28,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9703dddde762240d1e9f"},"name":"Ranger Foregrip","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":36,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a970adddde762240d1ea0"},"name":"M203 40mm Flash","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":40,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9714dddde762240d1ea1"},"name":"M203 40mm Smokescreen","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":46,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a971ddddde762240d1ea2"},"name":"Tactical Foregrip","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":54,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9726dddde762240d1ea3"},"name":"M203 40mm Incendiary","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":57,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a972ddddde762240d1ea4"},"name":"M203 40mm Concussive","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":63,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9735dddde762240d1ea5"},"name":"Operator Foregrip","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":67,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9746dddde762240d1ea6"},"name":"24 Round Mags","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":100,"imgUrl":"","slot":"Ammunition","__v":0}
+{"_id":{"$oid":"5e1a974bdddde762240d1ea7"},"name":"30 Round Mags","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":100,"imgUrl":"","slot":"Ammunition","__v":0}
+{"_id":{"$oid":"5e1a975adddde762240d1ea8"},"name":"Granulated Grip Tape","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":16,"imgUrl":"","slot":"Rear Grip","__v":0}
+{"_id":{"$oid":"5e1a976bdddde762240d1ea9"},"name":"Stippled Grip Tape","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":33,"imgUrl":"","slot":"Rear Grip","__v":0}
+{"_id":{"$oid":"5e1a9776dddde762240d1eaa"},"name":"Rubberized Grip Tape","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":45,"imgUrl":"","slot":"Rear Grip","__v":0}
+{"_id":{"$oid":"5e1a9784dddde762240d1eab"},"name":"Heavy Hitter","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":7,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a978adddde762240d1eac"},"name":"Recon","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":14,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9793dddde762240d1ead"},"name":"Frangible - Wounding","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":18,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9798dddde762240d1eae"},"name":"FMJ","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":22,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a97a3dddde762240d1eaf"},"name":"Sleight of Hand","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":30,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a97addddde762240d1eb0"},"name":"Fast Melee","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":39,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a97b7dddde762240d1eb1"},"name":"Frangible - Disabling","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":42,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a97bddddde762240d1eb2"},"name":"Fully Loaded","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":50,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a97c2dddde762240d1eb3"},"name":"Burst","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":52,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a97cadddde762240d1eb4"},"name":"Mo' Money","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":56,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a97d1dddde762240d1eb5"},"name":"Presence of Mind","gunId":{"$oid":"5e19ffa3d2399dc67adc7ead"},"rankUnlocked":61,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9858d791d7632411b433"},"name":"Flash Guard","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":2,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a9862d791d7632411b434"},"name":"Tactical Suppressor","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":8,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a9868d791d7632411b435"},"name":"Muzzle Brake","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":10,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a9879d791d7632411b436"},"name":"Lightweight Suppressor","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":16,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a987fd791d7632411b437"},"name":"Breacher Device","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":33,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a9885d791d7632411b438"},"name":"Compensator","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":42,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a988fd791d7632411b439"},"name":"Monolithic Suppressor","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":50,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a989dd791d7632411b43a"},"name":"Forge Tac 17.2 LB","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a98a5d791d7632411b43b"},"name":"Forge Tac 20.0 LB","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a98acd791d7632411b43c"},"name":"Forge Tac CQC Pro","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a98b8d791d7632411b43d"},"name":"1mW Laser","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Laser","__v":0}
+{"_id":{"$oid":"5e1a98bdd791d7632411b43e"},"name":"5mW Laser","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Laser","__v":0}
+{"_id":{"$oid":"5e1a98ded791d7632411b43f"},"name":"Tac Laser","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Laser","__v":0}
+{"_id":{"$oid":"5e1a98edd791d7632411b440"},"name":"Operator Reflex Sight","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":3,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a990ad791d7632411b441"},"name":"Corp Combat Holo Sight","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":5,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9912d791d7632411b442"},"name":"G.I. Mini Reflex","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":7,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a991ed791d7632411b443"},"name":"4.0x Flip Hybrid","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":13,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a992bd791d7632411b444"},"name":"APX5 Holographic Sight","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":15,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9932d791d7632411b445"},"name":"Scout Combat Optic","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":18,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a993ad791d7632411b446"},"name":"Aim-Op Reflex Sight","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":20,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9944d791d7632411b447"},"name":"VLK 3.0x Optic","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":23,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a994cd791d7632411b448"},"name":"Thermal Hybrid","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":26,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9959d791d7632411b449"},"name":"Solozero Optics Mini Reflex","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":29,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a995dd791d7632411b44a"},"name":"Sniper Scope","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":34,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9966d791d7632411b44b"},"name":"Viper Reflex Sight","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":37,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a996dd791d7632411b44c"},"name":"PBX Holo 7 Sight","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":40,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9976d791d7632411b44d"},"name":"Cronen C480 Pro Optic","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":45,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a998ad791d7632411b44e"},"name":"Solozero NVG Enhanced","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":47,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9992d791d7632411b44f"},"name":"Monocle Reflex Sight","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":49,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a999fd791d7632411b450"},"name":"Cronen LP945 Mini Reflex","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":52,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a99b2d791d7632411b451"},"name":"Merc Thermal Optic","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":54,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a99bed791d7632411b452"},"name":"Integral Hybrid","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":56,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a99c6d791d7632411b453"},"name":"Variable Zoom Scope","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":60,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a99d2d791d7632411b454"},"name":"Canted Hybrid","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":64,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a99e0d791d7632411b455"},"name":"FTAC Hunter","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a99e8d791d7632411b456"},"name":"FTAC Collapsible Stock","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a99f0d791d7632411b457"},"name":"FFS Close Quarters Stock","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a99f9d791d7632411b458"},"name":"XRK Obelisk Pro","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a9a0fd791d7632411b459"},"name":"Commando Foregrip","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9a15d791d7632411b45a"},"name":"40mm Concussive","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9a1dd791d7632411b45b"},"name":"Merc Foregrip","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9a3ed791d7632411b45c"},"name":"40mm High-explosive","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9a47d791d7632411b45d"},"name":"40mm Incendiary","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9a4cd791d7632411b45e"},"name":"40mm Flash","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9a51d791d7632411b45f"},"name":"Tactical Foregrip","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9a5ad791d7632411b460"},"name":"40mm Smokescreen","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9a62d791d7632411b461"},"name":"12 Gauge Deputy","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9a66d791d7632411b462"},"name":"Bipod","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9a6dd791d7632411b463"},"name":"40mm Recon","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9a73d791d7632411b464"},"name":"Operator Foregrip","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9a7dd791d7632411b465"},"name":"25 Round Mags","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Ammunition","__v":0}
+{"_id":{"$oid":"5e1a9a8fd791d7632411b466"},"name":"30 Round Mags","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Ammunition","__v":0}
+{"_id":{"$oid":"5e1a9aa2d791d7632411b467"},"name":"Stippled Grip Tape","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Rear Grip","__v":0}
+{"_id":{"$oid":"5e1a9aa9d791d7632411b468"},"name":"Granulated Grip Tape","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Rear Grip","__v":0}
+{"_id":{"$oid":"5e1a9ab1d791d7632411b469"},"name":"Rubberized Grip Tape","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":100,"imgUrl":"","slot":"Rear Grip","__v":0}
+{"_id":{"$oid":"5e1a9abbd791d7632411b46a"},"name":"Fast Melee","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":4,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9ac1d791d7632411b46b"},"name":"Fully Loaded","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":6,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9ac8d791d7632411b46c"},"name":"Frangible - Wounding","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":21,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9ad0d791d7632411b46d"},"name":"Sleight of Hand","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":27,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9ad6d791d7632411b46e"},"name":"Recon","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":35,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9adbd791d7632411b46f"},"name":"Mo' Money","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":41,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9ae4d791d7632411b470"},"name":"Heavy Hitter","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":48,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9aecd791d7632411b471"},"name":"Frangible - Disabling","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":53,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9af1d791d7632411b472"},"name":"FMJ","gunId":{"$oid":"5e19ffb7d2399dc67adc7eae"},"rankUnlocked":61,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9b4274397e635af47f5e"},"name":"Flash Guard","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":4,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a9b4a74397e635af47f5f"},"name":"Tactical Suppressor","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":6,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a9b5374397e635af47f60"},"name":"CQB Breacher Device","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":10,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a9b6074397e635af47f61"},"name":"Collosus Suppressor","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":22,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a9b6b74397e635af47f62"},"name":"Compensator","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":30,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a9b7174397e635af47f63"},"name":"Muzzle Brake","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":46,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a9b7874397e635af47f64"},"name":"Monolithic Suppressor","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":54,"imgUrl":"","slot":"Muzzle","__v":0}
+{"_id":{"$oid":"5e1a9bba74397e635af47f65"},"name":"Oden Factory 810mm","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":100,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a9bc374397e635af47f66"},"name":"Oden Factory 730mm","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":100,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a9bca74397e635af47f67"},"name":"Oden Factory 420mm","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":100,"imgUrl":"","slot":"Barrel","__v":0}
+{"_id":{"$oid":"5e1a9bd674397e635af47f68"},"name":"5mW Laser","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":100,"imgUrl":"","slot":"Laser","__v":0}
+{"_id":{"$oid":"5e1a9bdc74397e635af47f69"},"name":"1mW Laser","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":19,"imgUrl":"","slot":"Laser","__v":0}
+{"_id":{"$oid":"5e1a9be274397e635af47f6a"},"name":"Tac Laser","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":52,"imgUrl":"","slot":"Laser","__v":0}
+{"_id":{"$oid":"5e1a9bf774397e635af47f6b"},"name":"Operator Reflex Sight","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":3,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c0074397e635af47f6c"},"name":"Corp Combat Holo Sight","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":5,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c1374397e635af47f6d"},"name":"Solozero Optics Mini Reflex","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":7,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c1b74397e635af47f6e"},"name":"Aim-Op Reflex Sight","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":11,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c2c74397e635af47f6f"},"name":"APX5 Holographic Sight","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":17,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c3574397e635af47f70"},"name":"VLK 3.0x Optic","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":20,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c3d74397e635af47f71"},"name":"Viper Reflex Sight","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":26,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c4374397e635af47f72"},"name":"Sniper Scope","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":29,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c4e74397e635af47f73"},"name":"Solozero NVG Enhanced","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":33,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c5a74397e635af47f74"},"name":"PBX Holo 7 Sight","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":35,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c6574397e635af47f75"},"name":"Monocle Reflex Sight","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":37,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c6c74397e635af47f76"},"name":"G.I. Mini Reflex","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":41,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c7374397e635af47f77"},"name":"Integral Hybrid","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":44,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c7a74397e635af47f78"},"name":"Scout Combat Optic","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":47,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c8274397e635af47f79"},"name":"Merc Thermal Optic","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":50,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c8974397e635af47f7a"},"name":"Thermal Hybrid","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":53,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c9374397e635af47f7b"},"name":"Cronen C480 Pro Optic","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":56,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9c9c74397e635af47f7c"},"name":"Canted Hybrid","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":60,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9caa74397e635af47f7d"},"name":"Variable Zoom Scope","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":62,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9cb774397e635af47f7e"},"name":"Cronen LP945 Mini Reflex","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":64,"imgUrl":"","slot":"Optic","__v":0}
+{"_id":{"$oid":"5e1a9cc574397e635af47f7f"},"name":"FORGE TAC Ballast","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":18,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a9cd074397e635af47f80"},"name":"Oden Ultralight Hollow","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":40,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a9cd974397e635af47f81"},"name":"FTAC XL Elite Comb","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":58,"imgUrl":"","slot":"Stock","__v":0}
+{"_id":{"$oid":"5e1a9ce874397e635af47f82"},"name":"Commando Foregrip","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":100,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9cf074397e635af47f83"},"name":"M203 40mm Flash","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":100,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9cf674397e635af47f84"},"name":"Merc Foregrip","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":24,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9cfe74397e635af47f85"},"name":"M203 40mm Concussive","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":27,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9d0774397e635af47f86"},"name":"M203 40mm Smokescreen","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":34,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9d0d74397e635af47f87"},"name":"Bipod","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":38,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9d1474397e635af47f88"},"name":"Tactical Foregrip","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":42,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9d1974397e635af47f89"},"name":"Ranger Foregrip","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":45,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9d2574397e635af47f8a"},"name":"M203 40mm Incendiary","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":49,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9d3274397e635af47f8b"},"name":"M203 40mm High-explosive","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":55,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9d3974397e635af47f8c"},"name":"12 Gauge Deputy","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":57,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9d4074397e635af47f8d"},"name":"M203 40mm Recon","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":63,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9d4974397e635af47f8e"},"name":"Operator Foregrip","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":65,"imgUrl":"","slot":"Underbarrel","__v":0}
+{"_id":{"$oid":"5e1a9d5774397e635af47f8f"},"name":"25 Round Mags","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":100,"imgUrl":"","slot":"Ammunition","__v":0}
+{"_id":{"$oid":"5e1a9d6074397e635af47f90"},"name":"30 Round Mags","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":59,"imgUrl":"","slot":"Ammunition","__v":0}
+{"_id":{"$oid":"5e1a9d7174397e635af47f91"},"name":"Stippled Grip Tape","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":100,"imgUrl":"","slot":"Rear Grip","__v":0}
+{"_id":{"$oid":"5e1a9d7974397e635af47f92"},"name":"Granulated Grip Tape","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":32,"imgUrl":"","slot":"Rear Grip","__v":0}
+{"_id":{"$oid":"5e1a9d8174397e635af47f93"},"name":"Rubberized Grip Tape","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":51,"imgUrl":"","slot":"Rear Grip","__v":0}
+{"_id":{"$oid":"5e1a9d8b74397e635af47f94"},"name":"Fast Melee","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":2,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9d9174397e635af47f95"},"name":"FMJ","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":9,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9d9774397e635af47f96"},"name":"Recon","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":14,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9da774397e635af47f97"},"name":"Frangible - Wounding","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":21,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9db274397e635af47f98"},"name":"Sleight of Hand","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":25,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9dba74397e635af47f99"},"name":"Heavy Hitter","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":28,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9dc574397e635af47f9a"},"name":"Mo' Money","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":36,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9dd074397e635af47f9b"},"name":"Frangible - Disabling","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":43,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9dd674397e635af47f9c"},"name":"Fully Loaded","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":48,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9de274397e635af47f9d"},"name":"Burst Fire (x2)","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":61,"imgUrl":"","slot":"Perk","__v":0}
+{"_id":{"$oid":"5e1a9de974397e635af47f9e"},"name":"Presence of Mind","gunId":{"$oid":"5e19ffccd2399dc67adc7eaf"},"rankUnlocked":66,"imgUrl":"","slot":"Perk","__v":0}
