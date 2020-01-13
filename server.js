@@ -23,7 +23,7 @@ app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended: false}))
 app.use(router)
 
-// Remove before production
+/* Remove before production
 router.route('/add/gun').post((req, res) => {
     const newGun = new Gun(req.body)
     console.log(req.body)
@@ -53,7 +53,7 @@ router.route('/add/attachment').post((req, res) => {
             console.log(error)
             res.status(500).send('Error saving new attachment. ' + error)
         })
-})
+})*/
 
 router.route('/gun/:id').get((req, res) => {
     Gun.findById(req.params.id, (err, gun) => {
