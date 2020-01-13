@@ -1,0 +1,30 @@
+{"_id":{"$oid":"5e19ff18d2399dc67adc7ea9"},"name":"M13","rankUnlocked":39,"category":"Assault Rifle","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e19ff2cd2399dc67adc7eaa"},"name":"M4A1","rankUnlocked":1,"category":"Assault Rifle","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e19ff4ad2399dc67adc7eab"},"name":"FR 5.56","rankUnlocked":16,"category":"Assault Rifle","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e19ff5cd2399dc67adc7eac"},"name":"AK-47","rankUnlocked":53,"category":"Assault Rifle","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e19ffa3d2399dc67adc7ead"},"name":"FAL","rankUnlocked":1,"category":"Assault Rifle","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e19ffb7d2399dc67adc7eae"},"name":"FN SCAR 17","rankUnlocked":47,"category":"Assault Rifle","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e19ffccd2399dc67adc7eaf"},"name":"Oden","rankUnlocked":28,"category":"Assault Rifle","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e19ffded2399dc67adc7eb0"},"name":"Kilo 141","rankUnlocked":1,"category":"Assault Rifle","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a0038d2399dc67adc7eb1"},"name":"RAM-7","rankUnlocked":55,"category":"Assault Rifle","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a00b2d2399dc67adc7eb2"},"name":"MP5","rankUnlocked":12,"category":"SMG","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a00c5d2399dc67adc7eb3"},"name":"MP7","rankUnlocked":54,"category":"SMG","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a00d5d2399dc67adc7eb4"},"name":"AUG","rankUnlocked":5,"category":"SMG","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a00ebd2399dc67adc7eb5"},"name":"P90","rankUnlocked":1,"category":"SMG","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a00fad2399dc67adc7eb6"},"name":"PP19","rankUnlocked":42,"category":"SMG","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a0112d2399dc67adc7eb7"},"name":"Uzi","rankUnlocked":34,"category":"SMG","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a0159d2399dc67adc7eb8"},"name":"Model 680","rankUnlocked":1,"category":"Shotgun","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a0169d2399dc67adc7eb9"},"name":"R9-0","rankUnlocked":1,"category":"Shotgun","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a017cd2399dc67adc7eba"},"name":"725","rankUnlocked":17,"category":"Shotgun","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a0192d2399dc67adc7ebb"},"name":"Origin 12","rankUnlocked":31,"category":"Shotgun","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a01c0d2399dc67adc7ebc"},"name":"M91","rankUnlocked":25,"category":"LMG","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a01cfd2399dc67adc7ebd"},"name":"PKM","rankUnlocked":1,"category":"LMG","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a01e0d2399dc67adc7ebe"},"name":"MG34","rankUnlocked":49,"category":"LMG","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a01f2d2399dc67adc7ebf"},"name":"SA87","rankUnlocked":24,"category":"LMG","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a020cd2399dc67adc7ec0"},"name":"Holger-26","rankUnlocked":55,"category":"LMG","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a0236d2399dc67adc7ec1"},"name":"EBR-14","rankUnlocked":1,"category":"Marksman Rifle","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a0246d2399dc67adc7ec2"},"name":"Kar98k","rankUnlocked":33,"category":"Marksman Rifle","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a025cd2399dc67adc7ec3"},"name":"MK2 Carbine","rankUnlocked":15,"category":"Marksman Rifle","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a029ad2399dc67adc7ec4"},"name":"AX-50","rankUnlocked":37,"category":"Sniper","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a02aed2399dc67adc7ec5"},"name":"Dragunov","rankUnlocked":1,"category":"Sniper","imgUrl":"","__v":0}
+{"_id":{"$oid":"5e1a02bbd2399dc67adc7ec6"},"name":"HDR","rankUnlocked":11,"category":"Sniper","imgUrl":"","__v":0}
