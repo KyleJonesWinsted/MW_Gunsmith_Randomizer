@@ -81,24 +81,28 @@ router.route('/gun/random/:rank').get((req, res) => {
 
 // Get between 1 and 5 random attachments for a gun of a given rank
 router.route('/attachments/:gunId/:gunRank').get((req, res) => {
-    Attachment.find({gunId: req.params.gunId, rankUnlocked: {$lte: req.params.gunRank}}, (err, attachments) => {
-        const attachmentsCount = attachments.length
-        if (!attachments || attachmentsCount === 0) {
-            console.log('Error: ' + err)
-            res.status(404).send('No matching attachments found\nError: ' + err)
-            return
-        }
-        var returnedAttachments = []
-        const numberOfAttachmentsToReturn = 5
-        for (let i = 0; i < numberOfAttachmentsToReturn; i++) {
-            const randomIndex = Math.round(Math.random() * (attachmentsCount - 1))
-            const randomAttachment = attachments[randomIndex]
-            if (checkAttachmentValidity(returnedAttachments, randomAttachment)) {
-                returnedAttachments.push(randomAttachment)
+    try {
+        Attachment.find({gunId: req.params.gunId, rankUnlocked: {$lte: req.params.gunRank}}, (err, attachments) => {
+            const attachmentsCount = attachments.length
+            if (!attachments || attachmentsCount === 0) {
+                console.log('Error: ' + err)
+                res.status(404).send('No matching attachments found\nError: ' + err)
+                return
             }
-        }
-        res.json(returnedAttachments)
-    })
+            var returnedAttachments = []
+            const numberOfAttachmentsToReturn = 5
+            for (let i = 0; i < numberOfAttachmentsToReturn; i++) {
+                const randomIndex = Math.round(Math.random() * (attachmentsCount - 1))
+                const randomAttachment = attachments[randomIndex]
+                if (checkAttachmentValidity(returnedAttachments, randomAttachment)) {
+                    returnedAttachments.push(randomAttachment)
+                }
+            }
+            res.json(returnedAttachments)
+        })
+    } catch(error) {
+        res.sendStatus(500)
+    }
 })
 
 router.route('/guns/:category').get((req, res) => {
