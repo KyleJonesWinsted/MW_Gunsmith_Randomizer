@@ -5,7 +5,7 @@ const bodyParser = require('body-parser')
 const path = require('path')
 const app = express()
 const router = express.Router()
-const PORT = 4000
+const PORT = process.env.PORT || 4000
 
 let Gun = require('./gun.model')
 let Attachment = require('./attachment.model')
