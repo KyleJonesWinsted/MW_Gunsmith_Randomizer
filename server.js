@@ -44,12 +44,9 @@ router.route('/gun/random/:rank').get((req, res) => {
             console.log(err)
             res.status(404).send('Unable to get guns. Error: ' + err)
         } else {
-            console.log(guns)
             const randomIndex = Math.round(Math.random() * (guns.length - 1))
             res.json(guns[randomIndex])
         }
-    }).then(function(guns) {
-        console.log(guns)
     })
 })
 
