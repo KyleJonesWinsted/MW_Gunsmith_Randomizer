@@ -6,11 +6,12 @@ const path = require('path')
 const app = express()
 const router = express.Router()
 const PORT = process.env.PORT || 4000
+const dbUri = process.env.PROD_MONGODB || 'mongodb://localhost:27017/gunsmith'
 
 let Gun = require('./gun.model')
 let Attachment = require('./attachment.model')
 
-mongoose.connect('mongodb://localhost:27017/gunsmith', {
+mongoose.connect(dbUri, {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })

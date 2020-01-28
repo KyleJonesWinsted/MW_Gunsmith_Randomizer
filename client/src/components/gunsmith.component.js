@@ -1,6 +1,9 @@
 import React, { Component } from 'react'
 import Attachment from './attachment.component'
 
+const PORT = process.env.PORT || 4000
+const baseURL = 'http://localhost:' + PORT
+
 class Gunsmith extends Component {
 
     constructor(props) {
@@ -22,7 +25,7 @@ class Gunsmith extends Component {
     }
 
     async getNewGun(playerRank = 55) {
-        const url = "http://localhost:4000/gun/random/" + playerRank
+        const url = baseURL + "/gun/random/" + playerRank
         try {
             const response = await fetch(url)
             if (response.ok) {
@@ -40,7 +43,7 @@ class Gunsmith extends Component {
         if (!gunId) {
             return
         }
-        const url = "http://localhost:4000/attachments/" + gunId + '/' + this.state.gun_rank
+        const url = baseURL + "/attachments/" + gunId + '/' + this.state.gun_rank
         try {
             const response = await fetch(url)
             if (response.ok) {
