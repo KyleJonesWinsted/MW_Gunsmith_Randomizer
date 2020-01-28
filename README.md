@@ -1,4 +1,4 @@
-# [MW Gunsmith Randomizer](mwgunsmith.herokuapp.com)
+# [MW Gunsmith Randomizer](http://mwgunsmith.herokuapp.com)
 
 ## Generate random gun and attachment combinations in Call of Duty: Modern Warfare (2019).
 
