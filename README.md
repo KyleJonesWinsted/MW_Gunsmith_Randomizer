@@ -1,1 +1,1 @@
-Backend for the gunsmith randomizer for Call of Duty: Modern Warfare (2019).
+Generate random gun and attachment combinations in Call of Duty: Modern Warfare (2019).
