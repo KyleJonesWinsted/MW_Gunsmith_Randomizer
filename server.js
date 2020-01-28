@@ -2,6 +2,7 @@ const express = require('express')
 const cors = require('cors')
 const mongoose = require('mongoose')
 const bodyParser = require('body-parser')
+const path = require('path')
 const app = express()
 const router = express.Router()
 const PORT = 4000
@@ -22,38 +23,7 @@ app.use(cors())
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended: false}))
 app.use(router)
-
-/* Remove before production
-router.route('/add/gun').post((req, res) => {
-    const newGun = new Gun(req.body)
-    console.log(req.body)
-    newGun.save()
-        .then(gun => {
-            res.status(200).json({
-                'newGun': newGun
-            })
-        })
-        .catch(error => {
-            console.log(error)
-            res.status(500).send('Error saving new gun. ' + error)
-        })
-})
-
-//Remove before production
-router.route('/add/attachment').post((req, res) => {
-    const newAttachment = new Attachment(req.body)
-    console.log(newAttachment.name)
-    newAttachment.save()
-        .then(attachment => {
-            res.status(200).json({
-                'newAttachment': newAttachment
-            })
-        })
-        .catch(error => {
-            console.log(error)
-            res.status(500).send('Error saving new attachment. ' + error)
-        })
-})*/
+app.use(express.static(path.join(__dirname, 'client/build')));
 
 router.route('/gun/:id').get((req, res) => {
     Gun.findById(req.params.id, (err, gun) => {
@@ -116,6 +86,10 @@ router.route('/guns/:category').get((req, res) => {
     })
 })
 
+app.get('*', (req,res) => {
+    res.sendFile(path.join(__dirname+'/client/build/index.html'));
+});
+
 function checkAttachmentValidity(attachmentArray, newAttachment) {
     for (let j = 0; j < attachmentArray.length; j++) {
         const attachment = attachmentArray[j]
@@ -131,3 +105,35 @@ function checkAttachmentValidity(attachmentArray, newAttachment) {
 app.listen(PORT, () => {
     console.log('Server running on port: ' + PORT)
 })
+
+/* Remove before production
+router.route('/add/gun').post((req, res) => {
+    const newGun = new Gun(req.body)
+    console.log(req.body)
+    newGun.save()
+        .then(gun => {
+            res.status(200).json({
+                'newGun': newGun
+            })
+        })
+        .catch(error => {
+            console.log(error)
+            res.status(500).send('Error saving new gun. ' + error)
+        })
+})
+
+//Remove before production
+router.route('/add/attachment').post((req, res) => {
+    const newAttachment = new Attachment(req.body)
+    console.log(newAttachment.name)
+    newAttachment.save()
+        .then(attachment => {
+            res.status(200).json({
+                'newAttachment': newAttachment
+            })
+        })
+        .catch(error => {
+            console.log(error)
+            res.status(500).send('Error saving new attachment. ' + error)
+        })
+})*/
