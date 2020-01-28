@@ -12,8 +12,7 @@ let Gun = require('./gun.model')
 let Attachment = require('./attachment.model')
 
 mongoose.connect(dbUri, {
-    useNewUrlParser: true,
-    useUnifiedTopology: true
+    useNewUrlParser: true
 })
 const connection = mongoose.connection
 connection.once('open', function() {
